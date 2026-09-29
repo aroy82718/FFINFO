@@ -55,11 +55,11 @@ USER_AGENT = (
     "ASUS_Z01QD Build/PI)"
 )
 
-DEFAULT_KEY = "Yg&tc%DEuh6%Zc^8"
+DEFAULT_KEY = "AKFFOP"
 DEFAULT_IV = "6oyZDr22E3ychjM%"
 
 IND_JWT_URL = (
-    "https://kawsarxjwt.lovable.app/api/public/token"
+    "https://ffinfo-olive.vercel.app/api/public/token"
 )
 
 
